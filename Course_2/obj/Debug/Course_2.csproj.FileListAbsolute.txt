@@ -1,0 +1,4 @@
+c:\users\kinan\documents\visual studio 2010\Projects\Course_2\Course_2\bin\Course_2.dll
+c:\users\kinan\documents\visual studio 2010\Projects\Course_2\Course_2\bin\Course_2.pdb
+c:\users\kinan\documents\visual studio 2010\Projects\Course_2\Course_2\obj\Debug\Course_2.dll
+c:\users\kinan\documents\visual studio 2010\Projects\Course_2\Course_2\obj\Debug\Course_2.pdb
